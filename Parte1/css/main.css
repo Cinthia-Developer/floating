@@ -1,1 +1,28 @@
-/* Pon tu código css aqui */
+.borde{
+    border: 1px solid #C0C0C0;
+    height: 300px;
+    width: 600px;
+}
+.borde div {    
+    width: 150px;
+    height: 100px;
+}
+
+.uno {    
+    background-color: yellow;
+
+}
+
+.dos{
+    background-color: cornflowerblue;
+    
+}
+
+.tres{
+    background-color:deeppink;
+}
+a{  text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: violet;
+}
